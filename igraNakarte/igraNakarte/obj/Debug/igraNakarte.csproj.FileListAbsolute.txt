@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\igraNakarte\igraNakarte\obj\Debug\igraNakarte.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\igraNakarte\igraNakarte\obj\Debug\igraNakarte.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\igraNakarte\igraNakarte\bin\Debug\igraNakarte.exe.config
+C:\Users\Učenik\source\repos\igraNakarte\igraNakarte\bin\Debug\igraNakarte.exe
+C:\Users\Učenik\source\repos\igraNakarte\igraNakarte\bin\Debug\igraNakarte.pdb
+C:\Users\Učenik\source\repos\igraNakarte\igraNakarte\obj\Debug\igraNakarte.exe
+C:\Users\Učenik\source\repos\igraNakarte\igraNakarte\obj\Debug\igraNakarte.pdb
